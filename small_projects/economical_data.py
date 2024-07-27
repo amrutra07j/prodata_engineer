@@ -32,6 +32,5 @@ import os
 print(os.getcwd())
 
 print(eco_data)
-print(1/2)
 
 
