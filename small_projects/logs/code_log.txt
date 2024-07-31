@@ -1,0 +1,52 @@
+2024-Jul-28 17:34:48 : pandas: Declaring known values
+2024-Jul-28 17:34:48 : pandas: Preliminaries complete. Initiating ETL process
+2024-Jul-28 17:34:48 : pandas: Call extract() function
+2024-Jul-28 17:34:50 : pandas: Data extraction complete. Initiating Transformation process
+2024-Jul-28 17:34:50 : pandas: Call transform() function
+2024-Jul-28 17:35:21 : pandas: Data transformation complete. Initiating Loading process
+2024-Jul-28 17:35:21 : pandas: Call load_to_csv()
+2024-Jul-28 17:35:21 : pandas: Data saved to CSV file
+2024-Jul-28 17:35:21 : pandas: Initiate SQLite3 connection
+2024-Jul-28 17:35:21 : pandas: SQL Connection initiated
+2024-Jul-28 17:35:21 : pandas: Call load_to_db()
+2024-Jul-28 17:35:21 : pandas: Data loaded to Database as a table, Executing queries
+2024-Jul-28 17:35:21 : pandas: Close SQLite3 connection
+2024-Jul-28 17:35:21 : pandas: Server Connection closed
+2024-Jul-28 17:35:41 : bs4 : Declaring known values
+2024-Jul-28 17:35:41 : bs4 : Preliminaries complete. Initiating ETL process
+2024-Jul-28 17:35:41 : bs4 : Call extract() function
+2024-Jul-28 17:35:42 : bs4 : Data extraction complete. Initiating Transformation process
+2024-Jul-28 17:35:42 : bs4 : Call transform() function
+2024-Jul-28 17:37:05 : bs4 : Declaring known values
+2024-Jul-28 17:37:05 : bs4 : Preliminaries complete. Initiating ETL process
+2024-Jul-28 17:37:05 : bs4 : Call extract() function
+2024-Jul-28 17:37:07 : bs4 : Data extraction complete. Initiating Transformation process
+2024-Jul-28 17:37:07 : bs4 : Call transform() function
+2024-Jul-31 09:45:42 : pandas: Declaring known values
+2024-Jul-31 09:45:42 : pandas: Preliminaries complete. Initiating ETL process
+2024-Jul-31 09:45:42 : pandas: Call extract() function
+2024-Jul-31 09:45:48 : pandas: Data extraction complete. Initiating Transformation process
+2024-Jul-31 09:45:48 : pandas: Call transform() function
+2024-Jul-31 09:45:52 : pandas: Data transformation complete. Initiating Loading process
+2024-Jul-31 09:45:52 : pandas: Call load_to_csv()
+2024-Jul-31 09:45:52 : pandas: Data saved to CSV file
+2024-Jul-31 09:45:52 : pandas: Initiate SQLite3 connection
+2024-Jul-31 09:45:52 : pandas: SQL Connection initiated
+2024-Jul-31 09:45:52 : pandas: Call load_to_db()
+2024-Jul-31 09:45:52 : pandas: Data loaded to Database as a table, Executing queries
+2024-Jul-31 09:45:52 : pandas: Close SQLite3 connection
+2024-Jul-31 09:45:52 : pandas: Server Connection closed
+2024-Jul-31 09:46:00 : bs4 : Declaring known values
+2024-Jul-31 09:46:00 : bs4 : Preliminaries complete. Initiating ETL process
+2024-Jul-31 09:46:00 : bs4 : Call extract() function
+2024-Jul-31 09:46:02 : bs4 : Data extraction complete. Initiating Transformation process
+2024-Jul-31 09:46:02 : bs4 : Call transform() function
+2024-Jul-31 09:46:02 : bs4 : Data transformation complete. Initiating Loading process
+2024-Jul-31 09:46:02 : bs4 : Call load_to_csv()
+2024-Jul-31 09:46:02 : bs4 : Data saved to CSV file
+2024-Jul-31 09:46:02 : bs4 : Initiate SQLite3 connection
+2024-Jul-31 09:46:02 : bs4 : SQL Connection initiated
+2024-Jul-31 09:46:02 : bs4 : Call load_to_db()
+2024-Jul-31 09:46:02 : bs4 : Data loaded to Database as a table, Executing queries
+2024-Jul-31 09:46:02 : bs4 : Close SQLite3 connection
+2024-Jul-31 09:46:02 : bs4 : Server Connection closed
